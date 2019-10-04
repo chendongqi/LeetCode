@@ -1,0 +1,2 @@
+g++ RomanToInteger.cpp -o b
+./b

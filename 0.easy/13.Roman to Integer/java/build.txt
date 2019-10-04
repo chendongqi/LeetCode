@@ -1,0 +1,2 @@
+javac RomanToInteger.java
+java RomanToInteger

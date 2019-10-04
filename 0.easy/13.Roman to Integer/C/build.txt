@@ -1,0 +1,2 @@
+gcc RomanToInteger.c -o a
+./a
